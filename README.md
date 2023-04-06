@@ -1,0 +1,14 @@
+# leo-user 7.0 NRD90M 7.11.16 release-keys
+- manufacturer: xiaomi
+- platform: msm8994
+- codename: leo
+- flavor: leo-user
+- release: 7.0
+- id: NRD90M
+- incremental: 7.11.16
+- tags: release-keys
+- fingerprint: Xiaomi/leo/leo:7.0/NRD90M/7.11.16:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: leo-user-7.0-NRD90M-7.11.16-release-keys
+- repo: xiaomi_leo_dump
